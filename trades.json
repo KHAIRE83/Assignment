@@ -5,7 +5,7 @@
 		"version": "1",
 		"counterPartyId": "CP-1",
 		"bookId": "B1",
-		"maturityDate": "20/05/2020",
+		"maturityDate": "20/05/2020", 
 		"createdDate": "17/04/2021",
 		"expired": "N"
 	},
@@ -35,6 +35,24 @@
 		"maturityDate": "20/05/2014",
 		"createdDate": "17/04/2021",
 		"expired": "Y"
+	},
+	{
+		"tradeId": "T3",
+		"version": "4",
+		"counterPartyId": "CP-4",
+		"bookId": "B3",
+		"maturityDate": "20/04/2021",
+		"createdDate": "17/04/2021",
+		"expired": "N"
+	},
+	{
+		"tradeId": "T1",
+		"version": "2",
+		"counterPartyId": "CP-1",
+		"bookId": "B1",
+		"maturityDate": "25/04/2021",
+		"createdDate": "17/04/2021",
+		"expired": "N"
 	}
 ]
    
